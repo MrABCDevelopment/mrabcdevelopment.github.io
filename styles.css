@@ -3,6 +3,13 @@ header {
     background-color: lightblue;
 }
 
+article {
+    float: left;
+    background-color: purple;
+    width: 30%;
+    height: 100%;
+}
+
 section {
     width: 250px;
     float: left;
